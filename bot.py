@@ -2,7 +2,7 @@
 import logging
 import os
 import telegram
-from telegram.ext import Updater, CommandHandler, MessageHandler, filters , Dispatcher, CallbackQueryHandler
+from telegram.ext import Updater, CommandHandler, MessageHandler, filters, Dispatcher, CallbackQueryHandler
 from telegram.ext.dispatcher import run_async
 import aria
 import time
